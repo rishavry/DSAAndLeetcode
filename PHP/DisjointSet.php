@@ -3,10 +3,11 @@
 
 // to run this file, use this command: php PHP/DisjointSet.php
 class DisjointSet {
-    public int $size;
-    public array $parents;
-    public array $ranks;
-    public array $sizes;
+    private int $size;
+    
+    private array $parents;
+    private array $ranks;
+    private array $sizes;
 
 
     public function __construct(int $size) {

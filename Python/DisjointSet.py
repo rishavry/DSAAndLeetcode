@@ -4,12 +4,13 @@ from typing import List
 #to run this file, use this command: python3 Python/DisjointSet.py
 class DisjointSet:
     size: int
+
     parents: List[int]
     ranks = List[int]
     sizes = List[int]
 
 
-    def __init__(self, size):
+    def __init__(self, size: int):
         self.size = size
         self.parents = [i for i in range(size)]
         self.ranks = [0 for _ in range(size)]
@@ -17,7 +18,7 @@ class DisjointSet:
 
 
     #returns the root-member of an element's set
-    def find(self, element):
+    def find(self, element: int) -> int:
         root = self.parents[element]
 
         if root == element:
@@ -28,7 +29,7 @@ class DisjointSet:
 
 
     #unites two elements based on the ranks of their respective sets
-    def union_by_rank(self, x, y):
+    def union_by_rank(self, x: int, y: int) -> None:
         root_x = self.find(x)
         root_y = self.find(y)
 
@@ -51,7 +52,7 @@ class DisjointSet:
 
 
     #unites two elements based on the sizes of their respective sets
-    def union_by_size(self, x, y):
+    def union_by_size(self, x: int, y: int) -> None:
         root_x = self.find(x)
         root_y = self.find(y)
 

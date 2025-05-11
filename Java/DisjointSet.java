@@ -1,10 +1,11 @@
 package Java;
 
 
-// first go inside this directory; compile with: javac Java/DisjointSet.java 
+// compile with: javac Java/DisjointSet.java 
 // then, run with: java Java/DisjointSet
 class DisjointSet {
     int size;
+    
     int[] parents;
     int[] ranks;
     int[] sizes;
@@ -58,7 +59,7 @@ class DisjointSet {
         }
         else {
             this.parents[rootX] = rootY;
-            this.ranks[rootY] += 1;
+            this.ranks[rootY]++;
             this.sizes[rootY] += this.sizes[rootX];
         }
     }
@@ -84,7 +85,7 @@ class DisjointSet {
             this.sizes[rootY] += this.sizes[rootX];
 
             if (rankX == rankY) {
-                this.ranks[rootY] += 1;
+                this.ranks[rootY]++;
             }
         }
         else if (sizeY < sizeX) {
@@ -92,7 +93,7 @@ class DisjointSet {
             this.sizes[rootX] += this.sizes[rootY];
 
             if (rankX == rankY) {
-                this.ranks[rootX] += 1;
+                this.ranks[rootX]++;
             }
         }
         else {
@@ -100,7 +101,7 @@ class DisjointSet {
             this.sizes[rootY] += this.sizes[rootX];
 
             if (rankX == rankY) {
-                this.ranks[rootY] += 1;
+                this.ranks[rootY]++;
             }
         }
     }
