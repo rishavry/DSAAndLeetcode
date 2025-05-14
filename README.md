@@ -1,7 +1,7 @@
 # DSAAndLeetCode: Data-Structures
   This <b>GitHub repository</b> contains code in <b>all 5 programming-languages</b> that I'm fluent in: <b>C#, Java, PHP, Python, & TypeScript(which is just JavaScript with Types)</b>. This specific branch contains the <b>implementation of various types of data-structures</b>, and this repository's <b>wiki contains key-details</b> on many of those data-structures.
   
-  There is a total of <b>52 data-structures that I'm well-versed in</b> and that I believe are <b>essential for software-engineers</b> to know, not only for <b>coding technical-interviews</b>, but also for <b>optimizing their code and approach to the thousands of problems</b> they're tasked to solve. Here is that list of data-stuctures(whatever's in bold will be implemented code-wise in this repo, whatever's in italics will be explained in this repo's wiki. some may be bold and italicized; some may be just one; some may be neither)- 
+  There is a total of <b>51 data-structures that I'm well-versed in</b> and that I believe are <b>essential for software-engineers</b> to know, not only for <b>coding technical-interviews</b>, but also for <b>optimizing their code and approach to the thousands of problems</b> they're tasked to solve. Here is that list of data-stuctures(whatever's in bold will be implemented code-wise in this repo, whatever's in italics will be explained in this repo's wiki. some may be bold and italicized; some may be just one; some may be neither)- 
 
 1. Arrays
 
@@ -71,7 +71,7 @@
 
 34. *Directed Graph*
 
-35. *Non-directed Graph*
+35. *Undirected Graph*
 
 36. *Null Graph*
 
@@ -81,34 +81,32 @@
 
 39. *Complete Graph*
 
-40. *Cycle Graph*
+40. *Cyclic Graph*
 
-41. *Cyclic Graph*
+41. *Acyclic Graph*
 
-42. *Acyclic Graph*
+42. *Connected Graph*
 
-43. *Connected Graph*
+43. *Disconnected Graph*
 
-44. *Disconnected Graph*
+44. *Regular Graph*
 
-45. *Regular Graph*
+45. *Finite Graph*
 
-46. *Finite Graph*
+46. *Infinite Graph*
 
-47. *Infinite Graph*
+47. *Pseudo Graphs*
 
-48. *Pseudo Graphs*
+48. *Bipartite Graphs*
 
-49. *Bipartite Graphs*
+49. *Planar Graphs*
 
-50. *Planar Graphs*
+50. *Multi Graphs*
 
-51. *Multi Graphs*
-
-52. *Euler Graphs*
+51. *Euler Graphs*
 
   <br/>
 
-  If you're wondering why some of them aren't covered fully(or even at all) in this repo, it's because I already know them to a significant extent and adding them to the repo wouldn't provide as much value.
+  If you're wondering why some of them aren't covered fully(or even at all) in this repo, it's because I already know them to a sufficient extent and adding them to the repo wouldn't provide as much value.
 
   Besides the <b>learning and reviewing of critical data-structures</b>, this branch serves <b>two core purposes</b>: to <b>showcase</b> to potential job-recruiters and employers <b>my level of expertise in this field, as well as how seriously I take my craft</b>.
