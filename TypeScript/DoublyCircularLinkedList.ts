@@ -1,9 +1,9 @@
 // to run this file, use this command: npx ts-node TypeScript/DoublyCircularLinkedList.ts
 class DoublyNode {
-    data!:any;
+    data!: any;
 
-    prev!:DoublyNode|null;
-    next!:DoublyNode|null;
+    prev!: DoublyNode | null;
+    next!: DoublyNode | null;
 
 
     constructor(data: any) {
@@ -13,18 +13,18 @@ class DoublyNode {
 
 
 class DoublyCircularLinkedList {
-    head!:DoublyNode|null;
-    tail!:DoublyNode|null;
+    head!: DoublyNode | null;
+    tail!: DoublyNode | null;
     
     size!:number;
 
 
-    getHead(): DoublyNode|null {
+    getHead(): DoublyNode | null {
         return this.head;
     }
 
 
-    getTail(): DoublyNode|null {
+    getTail(): DoublyNode | null {
         return this.tail;
     }
 
@@ -34,7 +34,7 @@ class DoublyCircularLinkedList {
     }
 
 
-    addElementToStart(data:any): void {
+    addElementToStart(data: any): void {
        const new_head_node = new DoublyNode(data);
 
         if (this.size == 0) {
@@ -70,7 +70,7 @@ class DoublyCircularLinkedList {
     }
 
 
-    addElementToEnd(data:any): void {
+    addElementToEnd(data: any): void {
         const new_tail_node = new DoublyNode(data);
 
         if (this.size == 0){
