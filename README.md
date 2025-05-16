@@ -1,13 +1,15 @@
 # DSAAndLeetCode: Algorithms
   This <b>GitHub repository</b> contains code in <b>all 5 programming-languages</b> that I'm fluent in: <b>C#, Java, PHP, Python, & TypeScript(which is just JavaScript with Types)</b>. This specific branch contains the <b>implementation of various types of algorithms</b>, and this repository's <b>wiki contains key-details</b> on many of those algorithms.
   
-  There is a total of <b>24 algorithms that I'm well-versed in</b> and that I believe are <b>essential for software-engineers</b> to know, not only for <b>coding technical-interviews</b>, but also for <b>optimizing their code and approach to the thousands of problems</b> they're tasked to solve. Here is that list of algorithms(whatever's in bold will be implemented code-wise in this repo, whatever's in italics will be explained in this repo's wiki. some may be bold and italicized; some may be just one; some may be neither)- 
+  There is a total of <b>25 algorithms that I'm well-versed in</b> and that I believe are <b>essential for software-engineers</b> to know, not only for <b>coding technical-interviews</b>, but also for <b>optimizing their code and approach to the thousands of problems</b> they're tasked to solve. Here is that list of algorithms(whatever's in bold will be implemented code-wise in this repo, whatever's in italics will be explained in this repo's wiki. some may be bold and italicized; some may be just one; some may be neither)- 
 
-1. ***Fractional knapsack***
+1. ***Robin-Karp*** (<b>Python</b>)
 
-2. ***Robin-Karp Algorithm***
+2. ***Huffman coding*** (<b>TypeScript</b>)
 
-3. ***Huffman coding***
+3. *Boyer-Moore*
+
+4. ***Knuth–Morris–Pratt*** (<b>C#</b>)
 
   <br/>
 
