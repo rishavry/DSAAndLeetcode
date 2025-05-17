@@ -31,6 +31,16 @@
 
 14. ***Bucket Sort*** (<b>TypeScript</b>)
 
+15. *Linear Search*
+
+16. ***Binary Search*** (<b>C#</b>)
+
+17. ***Ternary Search*** (<b>Java</b>) 
+
+18. *Breadth-First Search*
+
+19. *Depth-First Search*
+
   <br/>
 
   If you're wondering why some of them aren't covered fully(or even at all) in this repo, it's because I already know them to a sufficient extent and adding them to the repo wouldn't provide as much value.
