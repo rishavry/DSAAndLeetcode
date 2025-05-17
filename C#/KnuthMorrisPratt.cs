@@ -23,18 +23,17 @@ class KnuthMorrisPratt
 
         while (i < n)
         {
-            if (needle[j] == haystack[i])
-            {
-                i++;
-                j++;
-            }
-
             if (j == m)
             {
                 occurrences.Add(i - j);
                 j = lps[j - 1];
             }
-            else if (needle[j] != haystack[i])
+            else if (needle[j] == haystack[i])
+            {
+                i++;
+                j++;
+            }
+            else
             {
                 if (j != 0)
                     j = lps[j - 1];

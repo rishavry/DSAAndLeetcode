@@ -11,6 +11,26 @@
 
 4. ***Knuth–Morris–Pratt*** (<b>C#</b>)
 
+5. ***Selection Sort*** (<b>Java</b>)
+
+6. ***Bubble Sort*** (<b>PHP</b>)
+
+7. ***Insertion Sort*** (<b>Python</b>)
+
+8. ***Merge Sort*** (<b>TypeScript</b>)
+
+9. ***Quick Sort*** (<b>C#</b>)
+
+10. *Heap Sort*
+
+11. ***Cycle Sort*** (<b>Java</b>)
+
+12. ***Counting Sort*** (<b>PHP</b>)
+
+13. ***Radix Sort*** (<b>Python</b>)
+
+14. ***Bucket Sort*** (<b>TypeScript</b>)
+
   <br/>
 
   If you're wondering why some of them aren't covered fully(or even at all) in this repo, it's because I already know them to a sufficient extent and adding them to the repo wouldn't provide as much value.
