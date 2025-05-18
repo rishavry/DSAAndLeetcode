@@ -41,6 +41,19 @@
 
 19. *Depth-First Search*
 
+20. ***Dijkstra*** (<b>PHP</b>) 
+
+21. ***Kruskal*** (<b>Python</b>) 
+
+22. ***Prim*** (<b>TypeScript</b>) 
+
+23. ***Floyd-Warshall*** (<b>C#</b>) 
+
+24. ***Bellman-Ford*** (<b>Java</b>) 
+
+25. ***Kahn’s Algorithm for Topological Sorting*** (<b>PHP</b>) 
+
+
   <br/>
 
   If you're wondering why some of them aren't covered fully(or even at all) in this repo, it's because I already know them to a sufficient extent and adding them to the repo wouldn't provide as much value.

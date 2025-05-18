@@ -32,6 +32,7 @@ class BinarySearch
 
         return false;
     }
+    
 
     public static void Main(String[] args)
     {}
