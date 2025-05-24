@@ -1,5 +1,5 @@
 # DSAAndLeetCode: Algorithms
-  My <b>LeetCode profile</b> is linked <a href="https://leetcode.com/u/ocoDFiROav/" target="_blank" rel="noopener noreferrer">here</a>. In it, you'll find that I <b>started on May 18, 2025</b>, I'm in the <b>top X% rank-wise (A/5,000,000+)</b>, I solved <b>over Y</b> questions, and <b>more</b> relevant info. <b>Furthermore</b>, if you go to the <b>Lists section</b>, you'll see <b>all</b> the <b>questions</b> I've <b>answered</b>, <b>organized</b> by <b>topic</b>!
+  My <b>LeetCode profile</b> is linked <a href="https://leetcode.com/u/ocoDFiROav/" target="_blank" rel="noopener noreferrer">here</a>. In it, you'll find that I <b>started on May 18, 2025</b>, I'm in the <b>top X% rank-wise (A/5,000,000+)</b>, I solved <b>over Y</b> questions, and <b>more</b> relevant info.
 
   This <b>GitHub repository</b> contains code in <b>all 5 programming-languages</b> that I'm fluent in: <b>C#, Java, PHP, Python, & TypeScript(which is just JavaScript with Types)</b>. This specific branch contains the <b>implementation of various types of algorithms</b>, and this repository's <b>wiki contains key-details</b> on many of those algorithms.
   
